@@ -12,3 +12,15 @@ __- meter_to_yard ( meter )__
 __- grain_to_gram ( grain )__
 
 __- gram_to_grain ( gram )__
+
+__- fts_to_ms ( fts )__
+
+__- ms_to_fts ( ms )__
+
+__- fahrenheit_to_celsius ( fahrenheit )__
+
+__- celsius_to_fahrenheit ( celsius )__
+
+__- ftlb_to_joule ( ftlb )__
+
+__- joule_to_ftlb ( joule )__
