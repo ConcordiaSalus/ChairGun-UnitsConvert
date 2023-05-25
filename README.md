@@ -24,3 +24,7 @@ __- celsius_to_fahrenheit ( celsius )__
 __- ftlb_to_joule ( ftlb )__
 
 __- joule_to_ftlb ( joule )__
+
+__- mph_to_kmh ( mph )__
+
+__- kmh_to_mph ( kmh )__
