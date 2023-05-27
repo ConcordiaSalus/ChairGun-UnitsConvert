@@ -32,3 +32,7 @@ __- kmh_to_mph ( kmh )__
 __- ft3_to_litre ( ft3 )__
 
 __- litre_to_ft3 ( litre )__
+
+__- psi_to_bar ( psi )__
+
+__- bar_to_psi ( bar )__
