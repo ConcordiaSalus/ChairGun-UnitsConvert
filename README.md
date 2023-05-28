@@ -36,3 +36,5 @@ __- litre_to_ft3 ( litre )__
 __- psi_to_bar ( psi )__
 
 __- bar_to_psi ( bar )__
+
+__- mbar_to_inhg ( mbar )__
